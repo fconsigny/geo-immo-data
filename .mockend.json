@@ -1,5 +1,6 @@
 {
   "RealEstateAd": {
-    "pictureUri": "http://cpiture.png"
-  }
+    "category": {
+      "string": ["one", "two", "three"]
+    }
 }
